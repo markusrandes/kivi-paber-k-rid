@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\obj\Debug\netcoreapp3.1\tunnitöö.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\obj\Debug\netcoreapp3.1\tunnitöö.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\obj\Debug\netcoreapp3.1\tunnitöö.AssemblyInfo.cs
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\obj\Debug\netcoreapp3.1\tunnitöö.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\bin\Debug\netcoreapp3.1\tunnitöö.exe
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\bin\Debug\netcoreapp3.1\tunnitöö.deps.json
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\bin\Debug\netcoreapp3.1\tunnitöö.runtimeconfig.json
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\bin\Debug\netcoreapp3.1\tunnitöö.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\bin\Debug\netcoreapp3.1\tunnitöö.dll
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\bin\Debug\netcoreapp3.1\tunnitöö.pdb
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\obj\Debug\netcoreapp3.1\tunnitöö.dll
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\obj\Debug\netcoreapp3.1\tunnitöö.pdb
+C:\Users\opilane\source\repos\tunnitöö\tunnitöö\obj\Debug\netcoreapp3.1\tunnitöö.genruntimeconfig.cache
